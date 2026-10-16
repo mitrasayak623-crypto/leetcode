@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0342-power-of-four) |
 ## Bit Manipulation
 |  |
@@ -12,5 +13,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
