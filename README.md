@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0067-add-binary) |
 | [0326-power-of-three](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0509-fibonacci-number) |
 | [2235-add-two-integers](https://github.com/mitrasayak623-crypto/leetcode/tree/master/2235-add-two-integers) |
 ## Bit Manipulation
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -66,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0912-sort-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mitrasayak623-crypto/leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
